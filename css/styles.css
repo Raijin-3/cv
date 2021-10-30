@@ -1,0 +1,119 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Alegreya', serif;
+}
+
+h1{
+    font-size: 3rem;
+    margin: 30px auto 0 auto;
+    font-family: 'Dancing Script', cursive;
+    color: #66BFBF;
+    line-height:1; 
+}
+
+h2{
+    font-size: 2rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+
+h3{
+    font-family: 'Playfair Display', serif;
+    color:  #11999E;
+}
+span{
+    text-decoration: underline;
+}
+
+a{
+    color:  #11999E;
+}
+
+hr{
+    width: 5%;
+    border-top-style: dotted;
+    border-color: #b8d1d1;
+    border-top-width: 7px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    border-bottom: none;
+}
+
+.top-container{
+    background-color: #EAF6F6;
+    padding-top: 70px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 180px;
+}
+.top-cloud{
+    position: relative;
+    margin-left: 47%;
+}
+
+.skill-row{
+    width: 50%;
+    position: relative;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2; 
+}
+
+.computer{
+    width: 25%;
+    float: left;
+    padding-right: 30px;    
+}
+
+.chillie{
+    width: 25%;
+    float: right;
+    padding-left: 30px;
+}
+
+.contact-me{
+    line-height: 2;
+    text-align: center;
+    width: 40%;
+    margin: 40px auto 60px auto;
+}
+
+
+.btn{
+    background-color:#11999E!important;
+    font-size: 17px;
+    padding:6px 18px;
+    color: #EAF6F6;
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+.bottom-container{
+    background-color: #66BFBF;
+    margin-top: 100px;
+    height: 200px;
+    text-align: center;
+}
+
+.footer-link{
+    color: #11999E;
+    text-decoration: none;
+    position: relative;
+    top: 75px;
+    padding-right: 30px;
+    font-size: 20px;
+}
+
+.copyright{
+    position: relative;
+    top: 75px;
+    color: #EAF6F6;
+}
+
+.intro{
+    width: 47%;
+    margin: auto;
+}
